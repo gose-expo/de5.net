@@ -21,9 +21,9 @@ COOKIES = {
     "fc_fp": "2039668840",
     "fc_tz": "Asia/Shanghai",
     "fc_lang": "zh-CN",
-    "WHMCSUser": "20050::c1e8698fe7d6f958c014233fcabfbc5db09e74bf",
-    "WHMCSy551iLvnhYt7": "62iukamrpedv338u1tofs2cfa5",
-    "disable_renewal_token": "a8fa731cf33cec78512c68f286c9e3c6a98515bb",
+    "WHMCSUser": "",
+    "WHMCSy551iLvnhYt7": "",
+    "disable_renewal_token": "",
 }
 
 def register_subdomain(subdomain: str):
